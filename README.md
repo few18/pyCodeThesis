@@ -5,4 +5,5 @@ by Filip Weidler.
 All the code for generating phase lock twin surrogates was written or adapted by Shivan Parmar for his thesis.
 I slightly modified the code for the Deep ESN from the code of Luca Pedrelli: https://github.com/lucapedrelli/DeepESN
 The IAAFT surrogate methods is from: https://github.com/mlcs/iaaft
+The code for the minimal ESN was adapted from: https://mantas.info/code/simple_esn/
 
